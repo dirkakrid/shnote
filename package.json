@@ -1,0 +1,13 @@
+{
+  "name": "shnote",
+  "version": "0.0.1",
+  "description": "a command line note taking application",
+  "main": "lib/shnote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mats Julian Olsen",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
